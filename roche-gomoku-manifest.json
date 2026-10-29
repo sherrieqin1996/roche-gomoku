@@ -1,0 +1,19 @@
+{
+  "id": "roche-gomoku",
+  "name": "连珠 · 五子棋",
+  "version": "1.0.0",
+  "description": "选择角色陪你下五子棋，可在开局前、对局中和结束后聊天，支持协商先后手、悔棋、认输及对局记忆总结。",
+  "author": "Sherrie Qin",
+  "entry": "https://raw.githubusercontent.com/sherrieqin1996/roche-gomoku/main/roche-gomoku.js",
+  "hash": "",
+  "permissions": [
+    "persona:read",
+    "character:read",
+    "memory:read",
+    "worldbook:read",
+    "ai:chat",
+    "storage",
+    "ui",
+    "memory:write"
+  ]
+}
